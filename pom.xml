@@ -49,6 +49,7 @@
         <commons-io.version>2.4</commons-io.version>
         <log4j.version>2.7</log4j.version>
         <mybatis-spring.version>1.2.5</mybatis-spring.version>
+        <swagger.version>2.9.2</swagger.version>
     </properties>
     <dependencyManagement>
         <dependencies>
